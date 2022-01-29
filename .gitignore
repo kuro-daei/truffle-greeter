@@ -1,3 +1,9 @@
+# Truffle
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
+
 # Logs
 logs
 *.log
@@ -101,4 +107,8 @@ dist
 .dynamodb/
 
 # TernJS port file
+<<<<<<< HEAD
 .tern-port
+=======
+.tern-port
+>>>>>>> master
